@@ -67,7 +67,7 @@ It is intended for users who maintain multiple worlds, keep backup copies or sim
 
 # 📥 Installation
 
-1. Download the latest release from the [**Releases**]() page.
+1. Download the latest release from the [**Releases**](https://github.com/NedoFix888/project-zomboid-save-manager/releases/tag/download) page.
 2. Extract the archive.
 3. Launch **Project Zomboid Save Manager**.
 4. Select the desired action.
